@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "target": "master-application",
+  "version": "0.1.9",
+  "buildId": "1FA66C82",
+  "dirty": false,
+  "sourceCommit": "6e4110c84a0b2869560bae5036f293d5c39149bf",
+  "releaseTag": "master-v0.1.9-1FA66C82",
+  "imageName": "splitflap-master-0.1.9-1FA66C82.bin",
+  "imageLength": 569360,
+  "imageSha256": "a099120d92c66983f6356fd8e22cdb1ca8f20c5574a5043264e864fccc25b995",
+  "imageUrl": "https://github.com/stuartg123/Splitflap-firmware/releases/download/master-v0.1.9-1FA66C82/splitflap-master-0.1.9-1FA66C82.bin",
+  "hardware": "esp32-c6",
+  "flashBytes": 8388608,
+  "partitionLayout": "ota_8mb-v1"
+}
