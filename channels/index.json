@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "channels": [
+    {
+      "id": "stable",
+      "label": "Stable"
+    },
+    {
+      "id": "feature-master-update-check",
+      "label": "Feature: master update check"
+    }
+  ]
+}
