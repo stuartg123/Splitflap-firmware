@@ -8,6 +8,10 @@
     {
       "id": "feature-master-update-check",
       "label": "Feature: master update check"
+    },
+    {
+      "id": "gate6-master-install",
+      "label": "Gate 6 master install"
     }
   ]
 }
