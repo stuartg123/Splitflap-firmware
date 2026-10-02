@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "channel": "gate6-master-install",
+  "target": "master-application",
+  "version": "0.1.9",
+  "buildId": "9CFA95C8",
+  "dirty": false,
+  "sourceCommit": "9f4ca31eacb5a9005d390080410cbc5cd021d0b4",
+  "releaseTag": "master-v0.1.9-9CFA95C8",
+  "imageName": "splitflap-master-0.1.9-9CFA95C8.bin",
+  "imageLength": 1427936,
+  "imageSha256": "071a8ede5a93150bfa124a09e15204f39ab40e6bd99c47e6f70653c98e7aede3",
+  "imageUrl": "https://github.com/stuartg123/Splitflap-firmware/releases/download/master-v0.1.9-9CFA95C8/splitflap-master-0.1.9-9CFA95C8.bin",
+  "hardware": "esp32-c6",
+  "flashBytes": 8388608,
+  "partitionLayout": "ota_8mb-v1"
+}
