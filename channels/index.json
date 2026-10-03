@@ -16,6 +16,10 @@
     {
       "id": "gate8-row-bundle",
       "label": "Gate 8 row bundle"
+    },
+    {
+      "id": "module-build-identity",
+      "label": "Module build identity"
     }
   ]
 }
