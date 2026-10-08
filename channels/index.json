@@ -22,6 +22,10 @@
       "label": "Module build identity"
     },
     {
+      "id": "module-ota-transport",
+      "label": "Module OTA transport"
+    },
+    {
       "id": "web-row-commission",
       "label": "Web row commission"
     }
