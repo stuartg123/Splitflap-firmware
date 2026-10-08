@@ -20,6 +20,10 @@
     {
       "id": "module-build-identity",
       "label": "Module build identity"
+    },
+    {
+      "id": "web-row-commission",
+      "label": "Web row commission"
     }
   ]
 }
