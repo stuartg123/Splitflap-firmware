@@ -26,6 +26,10 @@
       "label": "Module OTA transport"
     },
     {
+      "id": "row-debug-66",
+      "label": "Row debug test"
+    },
+    {
       "id": "web-row-commission",
       "label": "Web row commission"
     }
