@@ -10,12 +10,12 @@
       "label": "Feature: master update check"
     },
     {
-      "id": "maintenance-nav-68",
-      "label": "Maintenance navigation test"
-    },
-    {
       "id": "gate8-row-bundle",
       "label": "Gate 8 row bundle"
+    },
+    {
+      "id": "maintenance-nav-68",
+      "label": "Maintenance diagnostics test"
     },
     {
       "id": "module-build-identity",
