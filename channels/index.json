@@ -10,6 +10,10 @@
       "label": "Maintenance diagnostics test"
     },
     {
+      "id": "module-motion-13",
+      "label": "M009 motion test"
+    },
+    {
       "id": "module-ota-transport",
       "label": "Module OTA transport"
     },
